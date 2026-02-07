@@ -2,7 +2,6 @@
 title: 茨城
 url: /prefectures/ibaraki/
 ---
-
 ## 茨城の小選挙区
 
 - [茨城1区](./1/)
