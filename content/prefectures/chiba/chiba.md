@@ -2,7 +2,6 @@
 title: 千葉
 url: /prefectures/chiba/
 ---
-
 ## 千葉の小選挙区
 
 - [千葉1区](./1/)
