@@ -2,7 +2,6 @@
 title: 埼玉
 url: /prefectures/saitama/
 ---
-
 ## 埼玉の小選挙区
 
 - [埼玉1区](./1/)
