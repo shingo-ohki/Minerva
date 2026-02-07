@@ -2,7 +2,6 @@
 title: 北海道
 url: /prefectures/hokkaido/
 ---
-
 ## 北海道の小選挙区
 
 - [北海道1区](./1/)
