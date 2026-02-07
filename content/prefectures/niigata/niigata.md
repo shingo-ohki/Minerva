@@ -2,7 +2,6 @@
 title: 新潟
 url: /prefectures/niigata/
 ---
-
 ## 新潟の小選挙区
 
 - [新潟1区](./1/)
