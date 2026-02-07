@@ -2,7 +2,6 @@
 title: 福島
 url: /prefectures/fukushima/
 ---
-
 ## 福島の小選挙区
 
 - [福島1区](./1/)
