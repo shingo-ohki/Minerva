@@ -2,7 +2,6 @@
 title: 山形
 url: /prefectures/yamagata/
 ---
-
 ## 山形の小選挙区
 
 - [山形1区](./1/)
