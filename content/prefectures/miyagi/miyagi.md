@@ -2,7 +2,6 @@
 title: 宮城
 url: /prefectures/miyagi/
 ---
-
 ## 宮城の小選挙区
 
 - [宮城1区](./1/)
