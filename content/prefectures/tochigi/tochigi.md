@@ -2,7 +2,6 @@
 title: 栃木
 url: /prefectures/tochigi/
 ---
-
 ## 栃木の小選挙区
 
 - [栃木1区](./1/)
