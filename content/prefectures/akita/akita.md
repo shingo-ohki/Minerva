@@ -2,7 +2,6 @@
 title: 秋田
 url: /prefectures/akita/
 ---
-
 ## 秋田の小選挙区
 
 - [秋田1区](./1/)
