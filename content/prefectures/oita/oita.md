@@ -2,7 +2,6 @@
 title: 大分
 url: /prefectures/oita/
 ---
-
 ## 大分の小選挙区
 
 - [大分1区](./1/)
