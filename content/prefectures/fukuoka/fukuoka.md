@@ -2,7 +2,6 @@
 title: 福岡
 url: /prefectures/fukuoka/
 ---
-
 ## 福岡の小選挙区
 
 - [福岡1区](./1/)
