@@ -2,7 +2,6 @@
 title: 岩手
 url: /prefectures/iwate/
 ---
-
 ## 岩手の小選挙区
 
 - [岩手1区](./1/)
