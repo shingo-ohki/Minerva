@@ -2,7 +2,6 @@
 title: 富山
 url: /prefectures/toyama/
 ---
-
 ## 富山の小選挙区
 
 - [富山1区](./1/)
