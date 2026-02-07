@@ -2,7 +2,6 @@
 title: 群馬
 url: /prefectures/gunma/
 ---
-
 ## 群馬の小選挙区
 
 - [群馬1区](./1/)
